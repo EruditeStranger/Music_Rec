@@ -1,2 +1,2 @@
 # Music_Rec
-A music recommendation system based on several datasets and several filtering techniques
+A barebones KNN/TF-IDF vectorization based music recommendation system that I'm primarily using to test the best hosting method
